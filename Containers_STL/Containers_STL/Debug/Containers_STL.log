@@ -1,6 +1,4 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Containers_STL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   vectors.cpp
-c:\users\dines\desktop\c&c++\containers_stl\containers_stl\vectors.cpp(18): warning C4018: '<': signed/unsigned mismatch
-  containers.cpp
-  Generating Code...
+c:\users\dines\desktop\c&c++\containers_stl\containers_stl\vectors.cpp(32): warning C4018: '<': signed/unsigned mismatch
   Containers_STL.vcxproj -> C:\Users\dines\Desktop\C&C++\Containers_STL\Debug\vectors.exe
