@@ -23,6 +23,7 @@
     <ProjectGuid>{9AC9E7F5-B132-4A45-9523-572F7A924BA7}</ProjectGuid>
     <RootNamespace>functor</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <ProjectName>functorAndLambda</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

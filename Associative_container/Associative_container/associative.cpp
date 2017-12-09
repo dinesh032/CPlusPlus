@@ -34,7 +34,7 @@ void multiSetFunc() {
 }
 
 void mapFunc() {
-	//key/value pairs..maps doesNOT aloow duplicate elements whereas multimap allows duplicates
+	//key/value pairs..maps doesNOT allow duplicate keys whereas multimap allows duplicates
 	map<char, int> mymap;
 	mymap.insert(pair<char, int>('a', 100));
 	//another way of insert
