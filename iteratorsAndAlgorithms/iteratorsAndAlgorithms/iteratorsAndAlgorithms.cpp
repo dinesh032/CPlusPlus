@@ -21,10 +21,10 @@ using namespace std;
 //	forward_list<int> itr;
 //	++itr, the only available operation
 
-//4. Input iterator: read and process values while iterating forward
+//4. Input iterator: read and process values while iterating forward.
 //int x = *itr
 
-//5. Output iterator: output values while iterating forward
+//5. Output iterator: output values while iterating forward.
 //*itr = 100
 
 // Iterator adapters
