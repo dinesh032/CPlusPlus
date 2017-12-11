@@ -8,7 +8,7 @@ int main() {
 
 
 	//List container
-	//basically, doubly linked list
+	//basically, a doubly linked list
 	//Can insert an element in constant time..find() function helps in this
 	//no random access like in vector i.e no []operator
 
@@ -16,7 +16,7 @@ int main() {
 	//mylist1.splice(itr, mylist2, itr_a, itr_b); takes O(1)
 
 	//Forward list
-	//basically singly linked list
+	//basically a singly linked list
 
 	list<int> mylist = {2, 4, 7};
 	mylist.push_back(9);
