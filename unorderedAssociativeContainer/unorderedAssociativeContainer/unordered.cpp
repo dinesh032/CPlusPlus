@@ -6,12 +6,12 @@
 
 using namespace std;
 
-//unordered sets/multisets & unordered maps/multimaps
+//unordered sets/multisets & unordered maps/multimaps.
 //implemented as hash table..so the elements are not ordered
 //hash table = array of linked lists. array known as buckets & linked lists as entries
 
-//Properties of unordered containers
-//1. fasted searh/insert at any place O(1)
+//Properties of unordered containers.
+//1. fasted searh/insert at any place O(1).
 //	 associative containers takes O(logn) & vector takes O(n), deque takes O(n)
 //	 list takes O(1) (given that pointers points at right place) & O(n) to search
 //2. Unordered set/multiset: element value can't be changed
