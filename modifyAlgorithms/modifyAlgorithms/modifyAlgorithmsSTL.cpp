@@ -26,7 +26,7 @@ int main() {
 	for (itr1 = vec2.begin(); itr1 != vec2.end(); ++itr1)
 		cout << *itr1 << " ";
 
-	//transform function..perform an operation on vetor & store in another vector
+	//transform function..perform an operation on vector & store in another vector
 	transform(vec1.begin(), vec1.end(), vec2.begin(), [](int x) {return x - 1; });
 	cout << endl;
 	for (itr1 = vec2.begin(); itr1 != vec2.end(); ++itr1)
