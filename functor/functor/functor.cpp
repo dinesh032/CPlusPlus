@@ -1,5 +1,5 @@
 ﻿#include<iostream>
-#include<conio.h>
+//#include<conio.h>
 #include<vector>
 #include<algorithm>
 #include<iterator>
@@ -45,6 +45,6 @@ int main() {
 	cout << "Multiple of 3: " << c << endl;											//be written as [=]
 	for_each(vec.begin(), vec.end(), [&sum](int x) {sum = sum + x; });				//pass by reference instead of by value..since by value gets
 	cout << "Sum of elements:" << sum << endl;										//wrong calculation..i.e 0
-	_getch();																		
+//	_getch();																		
 	return 0;
 }

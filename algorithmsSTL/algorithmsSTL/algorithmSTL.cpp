@@ -1,7 +1,7 @@
 #include<iostream>
 #include<algorithm>
 #include<vector>
-#include<conio.h>
+//#include<conio.h>
 
 using namespace std;
 
@@ -30,7 +30,8 @@ int main() {
 	reverse(vec.begin(), vec.end());
 	cout << endl << "Vector after reversing: ";
 	print(vec);
+	cout<<endl;
 
-	_getch();
+//	_getch();
 	return 0;
 }

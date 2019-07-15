@@ -1,7 +1,7 @@
 #include<iostream>
 #include<set>
 #include<map>
-#include<conio.h>
+//#include<conio.h>
 
 using namespace std;
 
@@ -53,6 +53,6 @@ int main() {
 	multiSetFunc();
 
 	mapFunc();
-	_getch();
+//	_getch();
 	return 0;
 }

@@ -1,0 +1,165 @@
+cscope 15 $HOME/code/CPlusPlus/algorithmsSTL/algorithmsSTL               0000000836
+	@algorithmSTL.cpp
+
+1 
+	~<io¡»am
+>
+
+2 
+	~<®gÜ™hm
+>
+
+3 
+	~<veùÜ
+>
+
+6 
+usšg
+ 
+Çme¥aû
+ 
+	g¡d
+;
+
+8 
+´št
+(
+veùÜ
+<>& 
+vec
+) {
+
+10 
+	gveùÜ
+<>::
+™”©Ü
+ 
+™
+ = 
+vec
+.
+begš
+(); 
+	g™
+ !ðvec.
+’d
+(); it++)
+
+11 
+	gcout
+ << *
+	g™
+ << " ";
+
+13 
+	$maš
+() {
+
+15 
+n
+ = 7;
+
+16 
+veùÜ
+<> 
+vec
+ = { 3,1,7,5,4,9,12 };
+
+19 
+veùÜ
+<>::
+™”©Ü
+ 
+™r
+ = 
+	`mš_–em’t
+(
+vec
+.
+	`begš
+(), vec.
+	`’d
+());
+
+20 
+cout
+ << 
+’dl
+ << "Vector before sort: ";
+
+21 
+	`´št
+(
+vec
+);
+
+22 
+cout
+ << 
+’dl
+ << "Sm®Ë¡ƒËm’ˆis: " << *
+™r
+;
+
+25 
+	`sÜt
+(
+vec
+.
+	`begš
+(), vec.
+	`’d
+());
+
+26 
+cout
+ << 
+’dl
+ << "Vector‡fter sort: ";
+
+27 
+	`´št
+(
+vec
+);
+
+30 
+	`»v”£
+(
+vec
+.
+	`begš
+(), vec.
+	`’d
+());
+
+31 
+cout
+ << 
+’dl
+ << "Vector‡fter„eversing: ";
+
+32 
+	`´št
+(
+vec
+);
+
+33 
+cout
+<<
+’dl
+;
+
+37 
+	}
+}
+
+	@
+1
+.
+1
+/usr/include
+1
+17
+algorithmSTL.cpp
